@@ -217,10 +217,10 @@
         <mxCell id="11IpipOqJez2AS0h7bXD-232" value="Approval" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=10;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="11IpipOqJez2AS0h7bXD-231">
           <mxGeometry width="249.0528648501633" height="21.891891891891895" as="geometry" />
         </mxCell>
-        <mxCell id="11IpipOqJez2AS0h7bXD-233" value="Milestone 2" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=10;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="11IpipOqJez2AS0h7bXD-231">
+        <mxCell id="11IpipOqJez2AS0h7bXD-233" value="Funding" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=10;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="11IpipOqJez2AS0h7bXD-231">
           <mxGeometry x="249.0528648501633" width="249.0528648501633" height="21.891891891891895" as="geometry" />
         </mxCell>
-        <mxCell id="11IpipOqJez2AS0h7bXD-234" value="Milestone 3" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=10;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="11IpipOqJez2AS0h7bXD-231">
+        <mxCell id="11IpipOqJez2AS0h7bXD-234" value="Closeout" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=10;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="11IpipOqJez2AS0h7bXD-231">
           <mxGeometry x="498.10572970032655" width="249.05326169087397" height="21.891891891891895" as="geometry" />
         </mxCell>
         <mxCell id="11IpipOqJez2AS0h7bXD-236" value="" style="strokeColor=#FFFFFF;fillColor=#BAC8D3;fontSize=10;strokeWidth=2;fontFamily=Helvetica;html=1;opacity=90;" vertex="1" parent="11IpipOqJez2AS0h7bXD-445">
