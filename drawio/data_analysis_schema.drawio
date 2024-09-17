@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.14">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1834" dy="986" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1511" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -95,7 +95,7 @@
           <mxGeometry y="130" width="110" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Fj4q3F7yAHKbmUtNdAKV-55" value="ADR / Cognos&#xa;PM App" style="fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="0qAKshBfbLGbxvA9z3j8-20" vertex="1">
-          <mxGeometry y="332" width="110" height="110" as="geometry" />
+          <mxGeometry y="320" width="110" height="122" as="geometry" />
         </mxCell>
         <mxCell id="Fj4q3F7yAHKbmUtNdAKV-74" value="ADR / Cognos&#xa;Milestones" style="fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="0qAKshBfbLGbxvA9z3j8-20" vertex="1">
           <mxGeometry y="460" width="110" height="30" as="geometry" />
