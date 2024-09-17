@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4" value="Analysis Artifacts &amp; KPIs" style="swimlane;whiteSpace=wrap;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="910" y="90" width="200" height="720" as="geometry" />
+          <mxGeometry x="910" y="90" width="250" height="720" as="geometry" />
         </mxCell>
         <mxCell id="Fj4q3F7yAHKbmUtNdAKV-53" value="Sources" style="swimlane;whiteSpace=wrap;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="19" y="90" width="151" height="720" as="geometry" />
